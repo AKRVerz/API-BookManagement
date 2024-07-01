@@ -1,4 +1,4 @@
-module goBookManagement
+module github.com/AKRVerz/API-BookManagement
 
 go 1.22.4
 

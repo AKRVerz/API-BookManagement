@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"goBookManagement/pkg/controllers"
+	"github.com/AKRVerz/API-BookManagement/pkg/controllers"
 
 	"github.com/gorilla/mux"
 )

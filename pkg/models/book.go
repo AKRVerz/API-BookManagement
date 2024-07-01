@@ -1,7 +1,7 @@
 package models
 
 import (
-	"goBookManagement/pkg/config"
+	"github.com/AKRVerz/API-BookManagement/pkg/config"
 
 	"github.com/jinzhu/gorm"
 )

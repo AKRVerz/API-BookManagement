@@ -3,10 +3,11 @@ package controllers
 import (
 	"encoding/json"
 	"fmt"
-	"goBookManagement/pkg/models"
-	"goBookManagement/pkg/utils"
 	"net/http"
 	"strconv"
+
+	"github.com/AKRVerz/API-BookManagement/pkg/models"
+	"github.com/AKRVerz/API-BookManagement/pkg/utils"
 
 	"github.com/gorilla/mux"
 )
